@@ -27,5 +27,4 @@ Ative todas as notificações e marque com estrela o projeto! 💕
 
 ***
 
-[![NPM](https://img.shields.io/github/followers/cicerovsampaio?style=social)](https://github.com/cicerovsampaio/) [![NPM](https://img.shields.io/twitter/follow/cicerovsampaio?label=Followers&style=social)](https://twitter.com/cicerovsampaio) [![NPM](https://img.shields.io/twitch/status/cicerovsampaio?style=social)](https://www.twitch.tv/cicerovsampaio)# linguagens-de-programacao
-# linguagens-de-programacao
+[![NPM](https://img.shields.io/github/followers/cicerovsampaio?style=social)](https://github.com/cicerovsampaio/) [![NPM](https://img.shields.io/twitter/follow/cicerovsampaio?label=Followers&style=social)](https://twitter.com/cicerovsampaio) [![NPM](https://img.shields.io/twitch/status/cicerovsampaio?style=social)](https://www.twitch.tv/cicerovsampaio)
